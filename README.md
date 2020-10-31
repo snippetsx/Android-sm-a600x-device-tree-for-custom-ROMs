@@ -1,0 +1,1 @@
+# sm-a600x-device-tree-for-custom-ROM
