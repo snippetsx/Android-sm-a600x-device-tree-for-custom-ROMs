@@ -1,0 +1,10 @@
+TARGET_ARCH := arm
+TARGET_ARCH_VARIANT := arm-v8
+TARGET_NO_KERNEL := false
+TARGET_CPU_VARIANT= cortex-a53
+TARGET_CPU_ABI := armeabi-v7a
+TARGET_CPU_ABI2 := armeabi
+PRODUCT_COPY_FILES += \
+	
+
+
